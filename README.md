@@ -9,23 +9,16 @@
 
 ## Nom
 
-Skywalker
+Barry
 
 ## Prénom
 
-Luke
+Thierno
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Barry Thierno Mamadou, je suis un étudiant en informatique de gestion et je suis actuellement inscrit pour les cours de Projet d'Intégration de Développement et ceux de l'Administration, Gestion et Sécurisation des réseaux.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+J'aime les sciences informatiques, même s'ils m'arrivent à rencontrer souvent des difficultés à m'y retrouver. Qu'à cela ne tienne je vais m'y atteler pour pouvoir y arriver.
